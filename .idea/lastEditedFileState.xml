@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LastEditedFileState">
+    <option name="lastEditedMap">
+      <map>
+        <entry key="$PROJECT_DIR$/core/app/Http/Controllers/Dashboard/ContactsController.php" value="1621415225497" />
+        <entry key="$PROJECT_DIR$/core/app/Http/Controllers/Dashboard/IstatistikController.php" value="1621446050399" />
+        <entry key="$PROJECT_DIR$/core/app/Http/Controllers/Dashboard/TopicsController.php" value="1621416605822" />
+        <entry key="$PROJECT_DIR$/core/app/Http/Controllers/HomeController.php" value="1621369532080" />
+        <entry key="$PROJECT_DIR$/core/app/Models/Istatistik.php" value="1621435020908" />
+        <entry key="$PROJECT_DIR$/core/resources/views/dashboard/home.blade.php" value="1621447064705" />
+        <entry key="$PROJECT_DIR$/core/resources/views/dashboard/layouts/foot.blade.php" value="1621448661647" />
+        <entry key="$PROJECT_DIR$/core/resources/views/dashboard/layouts/head.blade.php" value="1621447083912" />
+        <entry key="$PROJECT_DIR$/core/resources/views/dashboard/topics/list.blade.php" value="1621448667490" />
+        <entry key="$PROJECT_DIR$/core/routes/dashboard.php" value="1621369815377" />
+      </map>
+    </option>
+  </component>
+</project>
